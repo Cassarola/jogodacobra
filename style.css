@@ -1,0 +1,23 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  h1 {
+    color: purple;
+
+  }
+
+  #button{
+    background-color: white;
+    color: purple;
+    border: 1px solid purple;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding:10px;
+
+  }
